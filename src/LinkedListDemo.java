@@ -7,6 +7,6 @@ public class LinkedListDemo {
         List<String> a = new ArrayList<>();
         a.add("value1");
         a.add("value2");
-        System.out.println(a);
+        System.out.println(a.size());
     }
 }
